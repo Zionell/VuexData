@@ -1,0 +1,21 @@
+[{
+  "id": 1,
+  "date": "12.02.2021",
+  "category": "Food",
+  "cost": 100
+}, {
+  "id": 2,
+  "date": "25.04.2021",
+  "category": "Transport",
+  "cost": 500
+}, {
+  "id": 3,
+  "date": "08.08.2021",
+  "category": "Clothing",
+  "cost": 2500
+}, {
+  "id": 4,
+  "date": "13.05.2020",
+  "category": "Restaurant",
+  "cost": 3000
+}]
