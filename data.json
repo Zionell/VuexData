@@ -10,6 +10,6 @@
     { "id": 6, "date": "25.03.2020", "category": "Food", "cost": 200 }
   ],
   "page3": [
-    { "id": 7, "date": "26.03.2020", "category": "Clothing", "cost": 543 },
-  ],
+    { "id": 7, "date": "26.03.2020", "category": "Clothing", "cost": 543 }
+  ]
 }]
