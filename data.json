@@ -11,7 +11,5 @@
   ],
   "page3": [
     { "id": 7, "date": "26.03.2020", "category": "Clothing", "cost": 543 },
-    { "id": 8, "date": "27.03.2020", "category": "Transport", "cost": 2000 },
-    { "id": 9, "date": "28.03.2020", "category": "Food", "cost": 300 }
   ],
 }]
