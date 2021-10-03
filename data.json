@@ -8,7 +8,7 @@
     { "id": 4, "date": "23.03.2020", "category": "Clothing", "cost": 969 },
     { "id": 5, "date": "24.03.2020", "category": "Education", "cost": 1500 },
     { "id": 6, "date": "25.03.2020", "category": "Food", "cost": 200 }
-  ],,
+  ],
   "page3": [
     { "id": 7, "date": "26.03.2020", "category": "Clothing", "cost": 543 },
     { "id": 8, "date": "27.03.2020", "category": "Transport", "cost": 2000 },
