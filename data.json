@@ -1,4 +1,4 @@
-[
+[{
   "page1": [
     { "id": 1, "date": "20.03.2020", "category": "Food", "cost": 169 },
     { "id": 2, "date": "21.03.2020", "category": "Transport", "cost": 50 },
@@ -12,4 +12,4 @@
   "page3": [
     { "id": 7, "date": "26.03.2020", "category": "Clothing", "cost": 543 },
   ],
-]
+}]
