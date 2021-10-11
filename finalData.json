@@ -1,0 +1,57 @@
+[
+  {
+    "date": "2020-03-20",
+    "category": "Food",
+    "cost": 169
+  },
+  {
+    "date": "2020-12-15",
+    "category": "Transport",
+    "cost": 50
+  },
+  {
+    "date": "2020-06-09",
+    "category": "Restaurant",
+    "cost": 450
+  },
+  {
+    "date": "2019-06-26",
+    "category": "Clothing",
+    "cost": 969
+  },
+  {
+    "date": "2020-10-01",
+    "category": "Education",
+    "cost": 1500
+  },
+  {
+    "date": "2020-04-30",
+    "category": "Food",
+    "cost": 200
+  },
+  {
+    "date": "2020-09-19",
+    "category": "Clothing",
+    "cost": 543
+  },
+  {
+    "date": "2020-09-19",
+    "category": "Food",
+    "cost": 169
+  },
+  {
+    "date": "2020-09-19",
+    "category": "Transport",
+    "cost": 50
+  },
+  {
+    "date": "2020-09-19",
+    "category": "Restaurant",
+    "cost": 450
+  },
+  {
+    "date": "2020-09-19",
+    "category": "Clothing",
+    "cost": 969
+  }
+]
